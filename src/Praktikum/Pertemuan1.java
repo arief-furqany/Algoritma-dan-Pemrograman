@@ -10,7 +10,7 @@ public class Pertemuan1 {
 
     double panjang, lebar, tinggi, luas;
 
-    // Ddeklarai nilai variable
+    // Deklarai nilai variable
     panjang = 7.5;
     lebar = 2.2;
     tinggi = 4;
