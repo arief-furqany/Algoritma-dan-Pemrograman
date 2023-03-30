@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Pertemuan1",
+            "request": "launch",
+            "mainClass": "Praktikum.Pertemuan1",
+            "projectName": "Algoritma dan Pemrograman_fbc2b86c"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
