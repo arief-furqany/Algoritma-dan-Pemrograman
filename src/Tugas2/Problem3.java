@@ -1,10 +1,10 @@
-package com.;
+package Tugas2;
 
 import java.util.Scanner;
 
 public class Problem3 {
     public static void main(String[] args) {
-        Scanner masbro = new scanner(System.in);
+        Scanner masbro = new Scanner(System.in);
 
         System.out.println("Problem 3");
 
@@ -13,10 +13,10 @@ public class Problem3 {
         int ganjil_genap;
 
         System.out.println("masukkan nilai");
-        ganjilgenap = masbro.nextInt();
+        ganjil_genap = masbro.nextInt();
 
         if (ganjil_genap%2 == 0); {
-            for (i = 1; p <= ganjil_genap; i++){
+            for (i = 1; j <= ganjil_genap; i++){
                 for(j = 1; j <= ganjil_genap; j++) {
                     System.out.println(" * ");
                 }
